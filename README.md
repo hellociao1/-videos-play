@@ -1,4 +1,4 @@
-# Video‑play
+# ascll 视频生成器
 > 纯前端浏览器 ASCII 视频转换器，**全部运算在本地浏览器完成，不上传视频到服务器**。将视频转成字符画 ASCII 动画，支持彩色、音频、导出 TXT / HTML 动画 / WebM 录制。复古 Windows98 UI 风格单文件 HTML 工具。
 
 ## 功能概览
